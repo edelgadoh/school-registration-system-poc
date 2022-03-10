@@ -1,0 +1,11 @@
+spring:
+    mvc:
+        pathmatch:
+            matching-strategy: ant-path-matcher
+
+app:
+    maxEnrollment:
+        studentsByCourse: 50
+        coursesByStudent: 5
+
+
