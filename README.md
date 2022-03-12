@@ -32,7 +32,12 @@ docker-compose down
 The REST API documentation is generated automatically by Swagger 2, 
 and it's available at http://localhost:8080//swagger-ui/#/
 
+![API Screenshot](screenshot-doc-api.png?raw=true)
 
 
- 
+## Notes:
+All the project was tested on:
 
+- docker version 20.10.13
+- docker-compose version 1.29.2
+- openjdk 11.0.13 2021-10-19
